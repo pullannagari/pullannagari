@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pullannagari
-- 👀 I’m interested in learning problem solving and developing challenging projects
-- 🌱 I’m currently learning problem solving and improving the algorithmic performace
+- 👀 I’m interested in problem solving and developing challenging projects
 - 💞️ I’m looking to collaborate on new projects to contribute to the opensource and along side learn a new technology/tool/process.
 - 📫 How to reach me - email me :)
