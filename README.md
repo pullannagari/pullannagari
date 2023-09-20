@@ -19,6 +19,9 @@
   <a href="https://graphql.org/">
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   </a>&nbsp;
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>&nbsp;
   
 </p>
 <img src="https://img.shields.io/badge/version-0.1-blue">
