@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pullannagari
-- 🌱 I’m currently learning Designing Distributed Systems, Cloud
+- 🌱 Continously learning Designing Distributed Systems, Cloud, and AI
 - 👯 I’m looking to collaborate on problem solving and developing challenging projects
-- 💬 Ask me about java and python
-- ⚡ Fun fact: I spent more than an hour for this
+- 💬 Ask me about java and python and distributed systems
+- ⚡ Fun fact about me: can't live without sport
 - 🤝 say hello - email (sudhir.123reddy@hotmail.com)
 
 <p>
